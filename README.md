@@ -14,4 +14,4 @@ then:
 and voila! there you have it
 
 preview:
-![Screenshot](link-to-image)
+![Screenshot](Screenshot.png)
