@@ -12,3 +12,6 @@ then:
 ```./Tin-v1.0-linux-x86_64.AppImage```
 
 and voila! there you have it
+
+preview:
+![Screenshot](link-to-image)
